@@ -4,3 +4,6 @@
 [submodule "image_editor"]
 	path = image_editor
 	url = https://github.com/jykng-van/image_editor.git
+[submodule "pdf_notes"]
+	path = pdf_notes
+	url = https://github.com/jykng-van/pdf_notes.git
