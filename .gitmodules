@@ -7,3 +7,6 @@
 [submodule "pdf_notes"]
 	path = pdf_notes
 	url = https://github.com/jykng-van/pdf_notes.git
+[submodule "polygram_maker"]
+	path = polygram_maker
+	url = https://github.com/jykng-van/polygram_maker
