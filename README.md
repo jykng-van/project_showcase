@@ -5,4 +5,6 @@ Links below in this Readme are to the live demo pages, the source code to these 
 
 [Image Editor](https://jykng-van.github.io/image_editor/), this edits images, with cropping and rotation, from files dropped in or selected. <br>
 
-[PDF viewer and notes](https://jykng-van.github.io/pdf_notes/), this previews a selected PDF and adds associated notes to a PDF page
+[PDF viewer and notes](https://jykng-van.github.io/pdf_notes/), this previews a selected PDF and adds associated notes to a PDF page <br>
+
+[Polygram Maker](https://jykng-van.github.io/polygram_maker/), draws a polygram based on a number of points and steps input <br>
